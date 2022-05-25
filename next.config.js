@@ -28,7 +28,7 @@ const securityHeaders = [
     },
     {
       key: 'Referrer-Policy',
-      value: 'unsafe-url'
+      value: 'same-origin'
     },
     {
         key: 'X-XSS-Protection',
