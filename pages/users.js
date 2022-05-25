@@ -3,6 +3,12 @@ import MainNavigation from "../components/MainNavigation";
 
 function Users({users}) {
 
+    // const obj = {
+    //     one: 'asdasdasd',
+    //     two: this.one
+    // }
+    // console.log({data: obj.two})
+
     return (
         <MainNavigation keywords="users page">
             <h1>users Page</h1>
