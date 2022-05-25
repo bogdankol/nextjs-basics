@@ -11,7 +11,7 @@ export default function Error() {
             <iframe
                 height="500"
                 width="500"
-                src="https://vyos.io/solutions/vyos-on-edgecore-networks/"
+                src="https://nextjs-basics-lyart.vercel.app/"
                 id="iframe"
             ></iframe>
             hjhhhhhhhhhhhh
