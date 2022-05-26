@@ -12,7 +12,7 @@ const func1 = async (data) => {
 const securityHeaders = [
     {
       key: 'X-Frame-Options',
-      value: 'aaaaaaaaaaa'
+      value: 'DENY'
     },
     {
       key: 'X-DNS-Prefetch-Control',
